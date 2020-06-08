@@ -11,6 +11,13 @@
     }
     console.log(composition);
 
+    let next = composition ** 3;
+
+
+    let nexty = String( next).slice(0,2)
+    console.log(nexty);
+    
+
 
 
 
