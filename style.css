@@ -1,0 +1,9 @@
+.option-a, .option-b {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.option-b {
+    color: red;
+}
