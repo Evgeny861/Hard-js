@@ -22,5 +22,5 @@ for (let i = 1; i <= n; i++) {
     if (i % j == 0) continue nextPrime;
   }
 
-  console.log(`Делители этого числа: 1 и ${i}`); 
+  console.log(`Делители ${i}: 1 и ${i}`); 
 }
